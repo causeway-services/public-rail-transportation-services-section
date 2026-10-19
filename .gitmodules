@@ -1,0 +1,8 @@
+[submodule "rail-assist.561.group"]
+	path = sites/rail-assist.561.group
+	url = https://github.com/causeway-services/rail-assist.561.group.git
+	branch = main
+[submodule "north-shore-scenic-railroad-service"]
+	path = services/north-shore-scenic-railroad-service
+	url = https://github.com/causeway-services/north-shore-scenic-railroad-service.git
+	branch = main
